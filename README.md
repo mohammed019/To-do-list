@@ -1,5 +1,3 @@
-# To-do-list, I created in 2021
+# To-do-list
 
-This website was originally created in 2021 as a personal project to showcase my web development skills
-
-Thank you for visiting and I hope you find this website informative and enjoyable to explore!
+This todo list project is my second foray into the world of web development. It's not the most glamorous project, but it's definitely one of the most useful. I created it in 2021, when I realized that I needed a better way to keep track of all the things I had to do.
